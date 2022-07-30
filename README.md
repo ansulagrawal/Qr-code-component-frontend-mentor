@@ -55,4 +55,4 @@ Quite simple project for someone new to development! The only issue I had was wi
 
 ## Acknowledgments
 
-Thank you to everyone who provided feedback on my a href="https://www.frontendmentor.io/solutions/qr-code-component-g0YvCa7rB">solution/a>. Finding new ways to code and simpler solutions is definitely beneficial!
+Thank you to everyone who provided feedback on my a href="https://www.frontendmentor.io/solutions/responsive-qr-component-IsfK5p7aK">solution/a>. Finding new ways to code and simpler solutions is definitely beneficial!
